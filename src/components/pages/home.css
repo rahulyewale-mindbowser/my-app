@@ -1,0 +1,12 @@
+.home{
+    display: flex;
+}
+
+.heading{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    padding: 5rem;
+    width: 45vw;
+}
